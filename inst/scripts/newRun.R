@@ -1,0 +1,26 @@
+nohup samtools view -b -L /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/scripts/u12Regions.bed -o /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/extdata/res/SRR1691633_ZRSR2Mut.bam /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/extdata/SRR1691633_ZRSR2Mut.bam &
+nohup samtools view -b -L /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/scripts/u12Regions.bed -o /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/extdata/res/SRR1691634_ZRSR2Mut.bam /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/extdata/SRR1691634_ZRSR2Mut.bam &
+nohup samtools view -b -L /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/scripts/u12Regions.bed -o /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/extdata/res/SRR1691635_ZRSR2Mut.bam /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/extdata/SRR1691635_ZRSR2Mut.bam &
+nohup samtools view -b -L /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/scripts/u12Regions.bed -o /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/extdata/res/SRR1691636_ZRSR2Mut.bam /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/extdata/SRR1691636_ZRSR2Mut.bam &
+nohup samtools view -b -L /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/scripts/u12Regions.bed -o /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/extdata/res/SRR1691637_ZRSR2Mut.bam /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/extdata/SRR1691637_ZRSR2Mut.bam &
+nohup samtools view -b -L /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/scripts/u12Regions.bed -o /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/extdata/res/SRR1691638_ZRSR2Mut.bam /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/extdata/SRR1691638_ZRSR2Mut.bam &
+nohup samtools view -b -L /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/scripts/u12Regions.bed -o /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/extdata/res/SRR1691639_ZRSR2Mut.bam /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/extdata/SRR1691639_ZRSR2Mut.bam &
+nohup samtools view -b -L /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/scripts/u12Regions.bed -o /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/extdata/res/SRR1691640_ZRSR2Mut.bam /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/extdata/SRR1691640_ZRSR2Mut.bam &
+nohup samtools view -b -L /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/scripts/u12Regions.bed -o /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/extdata/res/SRR1691641_WT.bam /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/extdata/SRR1691641_WT.bam &
+nohup samtools view -b -L /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/scripts/u12Regions.bed -o /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/extdata/res/SRR1691642_WT.bam /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/extdata/SRR1691642_WT.bam &
+nohup samtools view -b -L /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/scripts/u12Regions.bed -o /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/extdata/res/SRR1691643_WT.bam /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/extdata/SRR1691643_WT.bam &
+nohup samtools view -b -L /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/scripts/u12Regions.bed -o /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/extdata/res/SRR1691644_WT.bam /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/extdata/SRR1691644_WT.bam &
+nohup samtools view -b -L /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/scripts/u12Regions.bed -o /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/extdata/res/SRR1691645_Normal.bam /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/extdata/SRR1691645_Normal.bam &
+nohup samtools view -b -L /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/scripts/u12Regions.bed -o /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/extdata/res/SRR1691646_Normal.bam /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/extdata/SRR1691646_Normal.bam &
+nohup samtools view -b -L /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/scripts/u12Regions.bed -o /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/extdata/res/SRR1691647_Normal.bam /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/extdata/SRR1691647_Normal.bam &
+nohup samtools view -b -L /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/scripts/u12Regions.bed -o /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/extdata/res/SRR1691648_Normal.bam /data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/extdata/SRR1691648_Normal.bam &
+
+
+df <- data.frame(seqnames=seqnames(reduceU12Gr),
+  starts=start(reduceU12Gr)-1,
+  ends=end(reduceU12Gr),
+  names=c(rep(".", length(reduceU12Gr))),
+  scores=c(rep(".", length(reduceU12Gr))),
+  strands=c(rep("*", length(reduceU12Gr)))
+
+write.table(df, file="/data1/ali/develop/sequencing/package/MDS.Chr22.U12Genes/inst/scripts/u12Regions.bed", quote=F, sep="\t", row.names=F, col.names=F)
