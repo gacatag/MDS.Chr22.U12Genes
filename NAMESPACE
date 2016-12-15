@@ -1,0 +1,5 @@
+export(
+    MDS_Chr22_RUNNAMES,
+    MDS_Chr22_BAMFILES
+)
+

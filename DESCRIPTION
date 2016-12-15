@@ -1,0 +1,14 @@
+Package: MDS.Chr22.U12Genes
+Title: MDS chromosome 22 data
+Version: 0.99.0
+Date: 2016-12-15
+Author: Ali Oghabian
+Maintainer: Ali Oghabian <ali.oghabian@helsinki.fi>
+Description: It's a RNA-seq mapped data of MDS patient and healthy samples.
+Suggests: GenomicAlignments
+LazyData: true
+NeedsCompilation: no
+biocViews: ExperimentData, Genome, Homo_sapiens_Data, SequencingData,
+        GEO, NCI, RNASeqData, ArrayExpress
+License: GPL-2
+Packaged: 2016-12-15 18:34:00 UTC; oghabian
