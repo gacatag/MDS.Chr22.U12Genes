@@ -1,0 +1,5 @@
+/data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/prep_reads: /lib64/libz.so.1: no version information available (required by /data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/prep_reads)
+prep_reads v2.0.5 (3525M)
+---------------------------
+859 out of 66723482 reads have been filtered out
+445058 out of 66723482 read mates have been filtered out

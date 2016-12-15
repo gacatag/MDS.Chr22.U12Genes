@@ -1,0 +1,66 @@
+
+[2015-02-04 14:35:55] Beginning TopHat run (v2.0.5)
+-----------------------------------------------
+[2015-02-04 14:35:55] Checking for Bowtie
+		  Bowtie version:	 2.0.0.7
+[2015-02-04 14:35:55] Checking for Samtools
+		Samtools version:	 0.1.18.0
+[2015-02-04 14:35:55] Checking for Bowtie index files
+[2015-02-04 14:35:55] Checking for reference FASTA file
+	Warning: Could not find FASTA file /data1/ali/software/sequencing/bowtie2/indexes/hg19NoColor/hg19.fa
+[2015-02-04 14:35:55] Reconstituting reference FASTA file from Bowtie index
+  Executing: /data1/ali/software/sequencing/bowtie2-2.0.0-beta7/bowtie2-inspect /data1/ali/software/sequencing/bowtie2/indexes/hg19NoColor/hg19 > /data1/ali/analysis/zrsr2/mapping/SRR1691640//tmp/hg19.fa
+[2015-02-04 14:38:34] Generating SAM header for /data1/ali/software/sequencing/bowtie2/indexes/hg19NoColor/hg19
+	format:		 fastq
+	quality scale:	 phred33 (default)
+[2015-02-04 14:38:39] Preparing reads
+	 left reads: min. length=100, max. length=100, 66722623 kept reads (859 discarded)
+	right reads: min. length=100, max. length=100, 66278424 kept reads (445058 discarded)
+[2015-02-04 15:56:45] Mapping left_kept_reads to genome hg19 with Bowtie2 
+/data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/bam2fastx: /lib64/libz.so.1: no version information available (required by /data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/bam2fastx)
+/data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/fix_map_ordering: /lib64/libz.so.1: no version information available (required by /data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/fix_map_ordering)
+/data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/bam2fastx: /lib64/libz.so.1: no version information available (required by /data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/bam2fastx)
+[2015-02-04 20:22:10] Mapping left_kept_reads_seg1 to genome hg19 with Bowtie2 (1/4)
+/data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/fix_map_ordering: /lib64/libz.so.1: no version information available (required by /data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/fix_map_ordering)
+[2015-02-04 21:00:04] Mapping left_kept_reads_seg2 to genome hg19 with Bowtie2 (2/4)
+/data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/fix_map_ordering: /lib64/libz.so.1: no version information available (required by /data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/fix_map_ordering)
+[2015-02-04 21:39:54] Mapping left_kept_reads_seg3 to genome hg19 with Bowtie2 (3/4)
+/data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/fix_map_ordering: /lib64/libz.so.1: no version information available (required by /data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/fix_map_ordering)
+[2015-02-04 22:20:42] Mapping left_kept_reads_seg4 to genome hg19 with Bowtie2 (4/4)
+/data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/fix_map_ordering: /lib64/libz.so.1: no version information available (required by /data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/fix_map_ordering)
+[2015-02-04 23:00:03] Mapping right_kept_reads to genome hg19 with Bowtie2 
+/data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/bam2fastx: /lib64/libz.so.1: no version information available (required by /data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/bam2fastx)
+/data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/fix_map_ordering: /lib64/libz.so.1: no version information available (required by /data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/fix_map_ordering)
+/data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/bam2fastx: /lib64/libz.so.1: no version information available (required by /data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/bam2fastx)
+[2015-02-05 03:20:46] Mapping right_kept_reads_seg1 to genome hg19 with Bowtie2 (1/4)
+/data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/fix_map_ordering: /lib64/libz.so.1: no version information available (required by /data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/fix_map_ordering)
+[2015-02-05 03:58:40] Mapping right_kept_reads_seg2 to genome hg19 with Bowtie2 (2/4)
+/data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/fix_map_ordering: /lib64/libz.so.1: no version information available (required by /data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/fix_map_ordering)
+[2015-02-05 04:39:38] Mapping right_kept_reads_seg3 to genome hg19 with Bowtie2 (3/4)
+/data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/fix_map_ordering: /lib64/libz.so.1: no version information available (required by /data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/fix_map_ordering)
+[2015-02-05 05:20:58] Mapping right_kept_reads_seg4 to genome hg19 with Bowtie2 (4/4)
+/data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/fix_map_ordering: /lib64/libz.so.1: no version information available (required by /data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/fix_map_ordering)
+[2015-02-05 05:59:53] Searching for junctions via segment mapping
+[2015-02-05 07:50:49] Retrieving sequences for splices
+[2015-02-05 07:54:26] Indexing splices
+[2015-02-05 07:58:29] Mapping left_kept_reads_seg1 to genome segment_juncs with Bowtie2 (1/4)
+/data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/fix_map_ordering: /lib64/libz.so.1: no version information available (required by /data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/fix_map_ordering)
+[2015-02-05 08:38:31] Mapping left_kept_reads_seg2 to genome segment_juncs with Bowtie2 (2/4)
+/data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/fix_map_ordering: /lib64/libz.so.1: no version information available (required by /data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/fix_map_ordering)
+[2015-02-05 09:18:37] Mapping left_kept_reads_seg3 to genome segment_juncs with Bowtie2 (3/4)
+/data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/fix_map_ordering: /lib64/libz.so.1: no version information available (required by /data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/fix_map_ordering)
+[2015-02-05 10:00:26] Mapping left_kept_reads_seg4 to genome segment_juncs with Bowtie2 (4/4)
+/data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/fix_map_ordering: /lib64/libz.so.1: no version information available (required by /data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/fix_map_ordering)
+[2015-02-05 10:41:16] Joining segment hits
+[2015-02-06 03:37:36] Mapping right_kept_reads_seg1 to genome segment_juncs with Bowtie2 (1/4)
+/data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/fix_map_ordering: /lib64/libz.so.1: no version information available (required by /data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/fix_map_ordering)
+[2015-02-06 04:14:13] Mapping right_kept_reads_seg2 to genome segment_juncs with Bowtie2 (2/4)
+/data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/fix_map_ordering: /lib64/libz.so.1: no version information available (required by /data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/fix_map_ordering)
+[2015-02-06 04:51:05] Mapping right_kept_reads_seg3 to genome segment_juncs with Bowtie2 (3/4)
+/data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/fix_map_ordering: /lib64/libz.so.1: no version information available (required by /data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/fix_map_ordering)
+[2015-02-06 05:27:56] Mapping right_kept_reads_seg4 to genome segment_juncs with Bowtie2 (4/4)
+/data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/fix_map_ordering: /lib64/libz.so.1: no version information available (required by /data1/ali/software/sequencing/tophat-2.0.5.Linux_x86_64/fix_map_ordering)
+[2015-02-06 06:04:03] Joining segment hits
+[2015-02-06 21:23:47] Reporting output tracks
+-----------------------------------------------
+[2015-02-06 23:55:57] Run complete: 2 days 09:20:01 elapsed
